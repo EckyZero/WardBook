@@ -61,6 +61,8 @@ information in order to operate, develop or improve our Application. Please be a
 although we endeavor to provide reasonable security for information we process and maintain, no
 security system can prevent all potential security breaches.
 
+The username and password you provide is not stored by the Application, meaning its security is entirely managed by your relationship with lds.org. If you wish to change your username and password you must contact lds.org to do so. All 
+
 <h3>Changes</h3>
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any
 changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult 
