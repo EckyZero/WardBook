@@ -4,35 +4,26 @@ This privacy policy was developed with the help of docracy.com.
 <h2>PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS</h2>
 This privacy policy governs your use of the software application Ward Book (“Application”) for
 mobile devices that was created by The Andersen Family Press. The Application is designed to
-assist the Ward Council and their presidencies in coordinating their outreach efforts.
+assist the LDS Ward Council and their presidencies in coordinating their outreach efforts.
 
 <h3>What information does the Application obtain and how is it used?</h3>
 <h4>User Provided Information</h4>
-The Application obtains the information you provide when you download and register the
-Application. Registration with us is optional. However, please keep in mind that you may not be
-able to use some of the features offered by the Application unless you register with us.
-When you register with us and use the Application, you generally provide (a) your name, email
-address, age, user name, password and other registration information; (b) transaction-related
-information, such as when you make purchases, respond to any offers, or download or use
-applications from us; (c) information you provide us when you contact us for help; (d) credit card
-information for purchase and use of the Application, and; (e) information you enter into our system
-when using the Application, such as contact information and project management information.
-We may also use the information you provided us to contact your from time to time to provide
-you with important information, required notices and marketing promotions.
-Automatically Collected Information
+When signing in with lds.org, the Application obtains the following content for each member of your unit:
+<ol>
+<li><b>Birth Date</b> - used to order the members in a household by age</li>
+<li><b>Position Information</b> - used to filter content and manage permissions used within the Application</li>
+<li><b>Name</b> - used to organize individual members into households based on last name</li>
+<li><b>Address</b> - used to organize individual members into households by their current residence. It is not stored anywhere within the Application or in any remote server used by The Andersen Family Press</li>
+<li><b>Images</b> - used to display alongside each household's profile. It is not stored anywhere within the Application or in any remote server used by The Andersen Family Press</li>
+</ol>
+<b>***No data from MLS, lds.org, or any church-related service is saved locally on the device or remotely by any server used, managed, or affiliated with The Andersen Family Press.***</b>
 
-In addition, the Application may collect certain information automatically, including, but not
-limited to, the type of mobile device you use, your mobile devices unique device ID, the IP
-address of your mobile device, your mobile operating system, the type of mobile Internet browser
-you use, and information about the way you use the Application. 
+<h3>Does the Application collect any location information?</h3>
+No
 
-<h4>Does the Application collect precise real time location information of the device?</h4>
-This Application does not collect precise information about the location of your mobile device. 
-
-<h4>Do third parties see and/or have access to information obtained by the Application?</h4>
-Only aggregated, anonymized data is periodically transmitted to external services to help us
-improve the Application and our service. We will share your information with third parties only in
-the ways that are described in this privacy statement.
+<h3>Do third parties see and/or have access to information obtained by the Application?</h3>
+Only aggregated, anonymized data is periodically transmitted to crash reporting and log services to help us
+improve the Application and our service. These logs and reports are used for debugging only and do not contain any personal or identifiable information.
 
 We may disclose User Provided and Automatically Collected Information:
 <ol>
@@ -41,14 +32,14 @@ We may disclose User Provided and Automatically Collected Information:
 <li>with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them and have agreed to adhere to the rules set forth in this privacy statement.
 </ol>
 
-If The Andersen Family Press is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+If The Andersen Family Press is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a prominent notice in the Application of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 
-<h4>What are my opt-out rights?</h4>
+<h3>What are my opt-out rights?</h3>
 You can stop all collection of information by the Application easily by uninstalling the Application.
 You may use the standard uninstall processes as may be available as part of your mobile device or
-via the mobile application marketplace or network. 
+via the mobile application marketplace or network. Note that this does not prevent others from using the Application and tagging you in their comments.
 
-<h4>Data Retention Policy, Managing Your Information</h4>
+<h3>Data Retention Policy, Managing Your Information</h3>
 We will retain User Provided data for as long as you use the Application and for a reasonable time
 thereafter. We will retain Automatically Collected information for up to 24 months and thereafter
 may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via
@@ -56,13 +47,13 @@ the Application, please contact us at development@andersenfamilypress.com and we
 reasonable time. Please note that some or all of the User Provided Data may be required in order
 for the Application to function properly.
 
-<h4>Children</h4>
+<h3>Children</h3>
 We do not use the Application to knowingly solicit data from or market to children under the age
 of 13. If a parent or guardian becomes aware that his or her child has provided us with information
 without their consent, he or she should contact us at development@andersenfamilypress.com . We will delete
 such information from our files within a reasonable time.
 
-<h4>Security</h4>
+<h3>Security</h3>
 We are concerned about safeguarding the confidentiality of your information. We provide physical,
 electronic, and procedural safeguards to protect information we process and maintain. For example,
 we limit access to this information to authorized employees and contractors who need to know that
@@ -70,14 +61,14 @@ information in order to operate, develop or improve our Application. Please be a
 although we endeavor to provide reasonable security for information we process and maintain, no
 security system can prevent all potential security breaches.
 
-<h4>Changes</h4>
+<h3>Changes</h3>
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any
 changes to our Privacy Policy by posting the new Privacy Policy here and informing you via
 email or text message. You are advised to consult this Privacy Policy regularly for any changes, as
 continued use is deemed approval of all changes. You can check the history of this policy by Insert
 the link of the version history on Docracy, available under.
 
-<h4>Your Consent</h4>
+<h3>Your Consent</h3>
 By using the Application, you are consenting to our processing of your information as set forth in
 this Privacy Policy now and as amended by us. "Processing,” means using cookies on a
 computer/hand held device or using or touching information in any way, including, but not
