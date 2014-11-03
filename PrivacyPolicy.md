@@ -63,10 +63,8 @@ security system can prevent all potential security breaches.
 
 <h3>Changes</h3>
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any
-changes to our Privacy Policy by posting the new Privacy Policy here and informing you via
-email or text message. You are advised to consult this Privacy Policy regularly for any changes, as
-continued use is deemed approval of all changes. You can check the history of this policy by Insert
-the link of the version history on Docracy, available under.
+changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult 
+this Privacy Policy regularly for any changes, ascontinued use is deemed approval of all changes. 
 
 <h3>Your Consent</h3>
 By using the Application, you are consenting to our processing of your information as set forth in
@@ -75,6 +73,7 @@ computer/hand held device or using or touching information in any way, including
 limited to, collecting, storing, deleting, using, combining and disclosing information, all of which
 activities will take place in the United States. If you reside outside the United States your
 information will be transferred, processed and stored there under United States privacy standards. 
-Contact us
+
+<h3>Contact us</h3>
 If you have any questions regarding privacy while using the Application, or have questions about
 our practices, please contact us via email at development@andersenfamilypress.com .
