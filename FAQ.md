@@ -45,7 +45,14 @@ In addition to the comment field being encrypted and decrypted at run-time, the 
 </ol>
 It is important to consider that the purpose of Ward Book is to facilitate coordination and collaboration among the members of the Ward Council and their presidencies. As such, if any information is extremely personal or would not be appropriate sharing with the church leadership, we recommend not storing it inside this application.
 
+<h4>Does Ward Book adhere to the Church's relevant policies </h4>
+Yes. We meet all the privacy and confidentiality stipulations as posted on the following church sites:
+<ul>
+<li>https://www.lds.org/pages/internet-usage-helps</li>
+</ul>
+
 <h4>What if I'm released? Can I still view the people's information? How do I transfer the information on my device?</h4>
 Ward Book syncs with the LDS Church's resources. As soon as your release is recorded in MLS, you will be automatically locked out of the application. Similarly, once the new individual's calling is recorded in MLS, he or she will be able to use the application and will be able to see all the comments you were previously able to view.
+
 
 
