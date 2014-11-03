@@ -1,6 +1,7 @@
 <h2>Frequently Asked Questions</h2>
 
 <h4>Why did you start developing Ward Book?</h4>
+Several Bishops have expressed to us a desire to have a secure way to share notes about members of the Ward (ex: when they last gave a talk, if they're a "Do Not Contact", their progress in taking the new member lessons, etc.). Programmers love solving problems, so we decided to do just that :)
 
 <h4>Where does Ward Book get its data from?</h4>
 Ward Book aggregates data from two sources:
