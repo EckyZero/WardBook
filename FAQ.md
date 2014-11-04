@@ -41,7 +41,6 @@ In addition to the comment field being encrypted and decrypted at run-time, the 
 <li>When a user create a comment he can decide which callings can view the comment. Meaning no one not explicitly assigned by the user as a viewable party can see the comment</li>
 <li>No user can see any comment in which he is tagged in, even if his calling should give him permission to</li>
 <li>The ids of users and callings that tie this information together are uniquely generated values that the application creates itself</li>
-<li>Only the name of individuals 18 years or older are displayed</li>
 <li>Besides names, no other personal information is displayed, stored, or maintained within Ward Book or any servers associated with this application</li>
 </ol>
 It is important to consider that the purpose of Ward Book is to facilitate coordination and collaboration among the members of the Ward Council and their presidencies. As such, if any information is extremely personal or would not be appropriate sharing with the church leadership, we recommend not storing it inside this application.
