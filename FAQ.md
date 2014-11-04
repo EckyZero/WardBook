@@ -15,7 +15,7 @@ Ward Book aggregates data from two sources:
 <li><b>Birth Date</b> - used to order the members in a household by age</li>
 <li><b>Position Information</b> - used to filter content and manage permissions used within the Application</li>
 <li><b>Name</b> - used to organize individual members into households based on last name. Only the names of those 18 and older are shown in the app</li>
-<li><b>Address</b> - used to organize individual members into households by their current residence. It is not stored anywhere within the Application or on any server used by The Andersen Family Press</li>
+<li><b>Address</b> - used to organize individual members into households by their current residence. It is not stored anywhere within the Application or on any server used by the Application</li>
 </ol>
 
 <h4>What information do you store in your application-specific database</h4>
