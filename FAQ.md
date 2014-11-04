@@ -14,9 +14,8 @@ Ward Book aggregates data from two sources:
 <ol>
 <li><b>Birth Date</b> - used to order the members in a household by age</li>
 <li><b>Position Information</b> - used to filter content and manage permissions used within the Application</li>
-<li><b>Name</b> - used to organize individual members into households based on last name</li>
+<li><b>Name</b> - used to organize individual members into households based on last name. Only the names of those 18 and older are shown in the app</li>
 <li><b>Address</b> - used to organize individual members into households by their current residence. It is not stored anywhere within the Application or on any server used by The Andersen Family Press</li>
-<li><b>Images</b> - used to display alongside each household's profile. It is not stored anywhere within the Application or on any server used by The Andersen Family Press</li>
 </ol>
 
 <h4>What information do you store in your application-specific database</h4>
@@ -42,14 +41,10 @@ In addition to the comment field being encrypted and decrypted at run-time, the 
 <li>When a user create a comment he can decide which callings can view the comment. Meaning no one not explicitly assigned by the user as a viewable party can see the comment</li>
 <li>No user can see any comment in which he is tagged in, even if his calling should give him permission to</li>
 <li>The ids of users and callings that tie this information together are uniquely generated values that the application creates itself</li>
+<li>Only the name of individuals 18 years or older are displayed</li>
+<li>Besides names, no other personal information is displayed, stored, or maintained within Ward Book or any servers associated with this application</li>
 </ol>
 It is important to consider that the purpose of Ward Book is to facilitate coordination and collaboration among the members of the Ward Council and their presidencies. As such, if any information is extremely personal or would not be appropriate sharing with the church leadership, we recommend not storing it inside this application.
-
-<h4>Does Ward Book adhere to the Church's relevant policies </h4>
-Yes. We meet all the privacy and confidentiality stipulations as posted on the following church sites:
-<ul>
-<li>https://www.lds.org/pages/internet-usage-helps</li>
-</ul>
 
 <h4>What if I'm released? Can I still view the people's information? How do I transfer the information on my device?</h4>
 Ward Book syncs with the LDS Church's resources. As soon as your release is recorded in MLS, you will be automatically locked out of the application. Similarly, once the new individual's calling is recorded in MLS, he or she will be able to use the application and will be able to see all the comments you were previously able to view.
